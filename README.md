@@ -1,2 +1,2 @@
-# Power-Bi-Dashborad-1
+# Power-Bi-Dashboard-1
 Sales Dashboard Motorola
